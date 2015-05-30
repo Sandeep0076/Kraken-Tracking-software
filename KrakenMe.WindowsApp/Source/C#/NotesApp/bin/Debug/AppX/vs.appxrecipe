@@ -23,7 +23,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Sandeep\Downloads\Project\KrakenMe.WindowsApp\Source\C#\NotesApp\bin\Debug\NotesApp.exe">
       <PackagePath>NotesApp.exe</PackagePath>
-      <Modified>2015-05-30T12:38:01.682</Modified>
+      <Modified>2015-05-30T12:42:43.363</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sandeep\Downloads\Project\KrakenMe.WindowsApp\Source\C#\NotesApp\Assets\bg.png">
       <PackagePath>Assets\bg.png</PackagePath>

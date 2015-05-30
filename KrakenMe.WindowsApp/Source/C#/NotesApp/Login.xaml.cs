@@ -30,7 +30,7 @@ namespace KrakenMe.WindowsApp
         //For navigating to a Login page
         private void Login_Tapped(object sender, TappedRoutedEventArgs e)
         {
-            this.Frame.Navigate(typeof(CalenderPage));
+            this.Frame.Navigate(typeof(HubPage));
         }
 
 
